@@ -1,0 +1,87 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="@android:color/white"
+    tools:context="com.codepath.apps.mysimpletweet.activities.ProfileActivity">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/rlUserHeader">
+
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:id="@+id/imUserPhoto"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Large Text"
+            android:id="@+id/tvuser_name"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/imUserPhoto"
+            android:layout_toEndOf="@+id/imUserPhoto" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:id="@+id/tvtext"
+            android:layout_below="@+id/tvuser_name"
+            android:layout_toRightOf="@+id/imUserPhoto"
+            android:layout_toEndOf="@+id/imUserPhoto" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/imUserPhoto"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="55 followers "
+                android:id="@+id/tvFolowers"
+                android:layout_marginLeft="10dp"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@+id/imUserPhoto"
+                android:layout_toEndOf="@+id/imUserPhoto" />
+
+            <TextView
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="30 folowing"
+                android:layout_marginLeft="10dp"
+                android:id="@+id/tvfolowing"
+                android:layout_below="@+id/textView"
+                android:layout_toRightOf="@+id/imUserPhoto"
+                android:layout_toEndOf="@+id/imUserPhoto" />
+
+        </LinearLayout>
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/rlUserHeader"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/flContainer"></FrameLayout>
+</RelativeLayout>
+<!-- From: file:/Users/mohinish/Desktop/MySimpleTweet/app/src/main/res/layout/activity_profile.xml -->

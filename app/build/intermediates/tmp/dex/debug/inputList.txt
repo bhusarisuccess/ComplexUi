@@ -1,0 +1,12 @@
+/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/classes/debug
+/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-eb0aa2ecded4c9e98ca7dd62d16ec42ba6c796e5.jar
+/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/codepath-utils-bd577a3d55d82d4256c353081cc5537dba33142a.jar
+/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/classes-54d5534e59f83517656ac69562bb91783a5d50dc.jar
+/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-18cf643a7ccbc0aee708a9ae32ae193a86d76f57.jar
+/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT-9202d62e8eee4882ea3edf65017266d074dd5947.jar
+/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-b29bf2e57cff3800da357dbd064e73d187df8f79.jar
+/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-070f97c855129119347f7b6df8959d014d14459d.jar
+/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-8a0333942c798593cc95cee5173dd8d17578d4ad.jar
+/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-1433a865d31870cd89192850703296b1cf33c032.jar
+/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/classes-965dc32993d687ea2822294d424f32a1f9ecfafb.jar
+/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/classes-ff17260631161cc28986b8e9f403d54a7ed2bf5d.jar

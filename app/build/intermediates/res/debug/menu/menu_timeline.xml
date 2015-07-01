@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.codepath.apps.mysimpletweet.activities.TimelineActivity">
+
+    <item
+        android:id="@+id/action_Edittweets"
+        android:icon="@drawable/ic_edittweet"
+        android:orderInCategory="100"
+        android:title="Profile"
+        app:showAsAction="ifRoom"
+        android:onClick="onProfileView"/>
+    <item
+        android:id="@+id/action_user"
+        android:icon="@drawable/ic_profile"
+        android:orderInCategory="100"
+        android:title="Profile"
+        app:showAsAction="ifRoom"
+        android:onClick="onProfileView"/>
+
+
+</menu>
+<!-- From: file:/Users/mohinish/Desktop/MySimpleTweet/app/src/main/res/menu/menu_timeline.xml -->

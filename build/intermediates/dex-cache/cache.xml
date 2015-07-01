@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/classes-965dc32993d687ea2822294d424f32a1f9ecfafb.jar" />
+    </item>
+    <item
+        jar="/Users/mohinish/Desktop/MySimpleTweet/app/libs/codepath-oauth-0.4.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="e2bf2d92cfe90d44287c510d955d0c979631e99e">
+        <dex dex="/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-18cf643a7ccbc0aee708a9ae32ae193a86d76f57.jar" />
+    </item>
+    <item
+        jar="/Users/mohinish/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.6/a845a88238be0b5be9d238652c1bc0605ef91f52/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-070f97c855129119347f7b6df8959d014d14459d.jar" />
+    </item>
+    <item
+        jar="/Users/mohinish/Desktop/MySimpleTweet/app/libs/scribe-codepath-0.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="a580d06de954001f787e8d024bfcf931fe30bdda">
+        <dex dex="/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-b29bf2e57cff3800da357dbd064e73d187df8f79.jar" />
+    </item>
+    <item
+        jar="/Users/mohinish/Desktop/MySimpleTweet/app/libs/codepath-utils.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4">
+        <dex dex="/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/codepath-utils-bd577a3d55d82d4256c353081cc5537dba33142a.jar" />
+    </item>
+    <item
+        jar="/Users/mohinish/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT-9202d62e8eee4882ea3edf65017266d074dd5947.jar" />
+    </item>
+    <item
+        jar="/Users/mohinish/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-8a0333942c798593cc95cee5173dd8d17578d4ad.jar" />
+    </item>
+    <item
+        jar="/Users/mohinish/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-eb0aa2ecded4c9e98ca7dd62d16ec42ba6c796e5.jar" />
+    </item>
+    <item
+        jar="/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/classes-ff17260631161cc28986b8e9f403d54a7ed2bf5d.jar" />
+    </item>
+    <item
+        jar="/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-1433a865d31870cd89192850703296b1cf33c032.jar" />
+    </item>
+    <item
+        jar="/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/Users/mohinish/Desktop/MySimpleTweet/app/build/intermediates/pre-dexed/debug/classes-54d5534e59f83517656ac69562bb91783a5d50dc.jar" />
+    </item>
+
+</items>
