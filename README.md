@@ -25,7 +25,7 @@ Added
 </p>
 
 <p>
-Demo Link: <a href="https://github.com/bhusarisuccess/MySimpleTweet/blob/master/Demo/TwitterDemo.gif"> <br> <br>
-<img border="0" src="https://github.com/bhusarisuccess/MySimpleTweet/blob/master/Demo/TwitterDemo.gif" width="60%" height="60%"> <br>
+Demo Link: <a href="https://github.com/bhusarisuccess/MySimpleTweet/blob/master/Demo/ComplexUi Demo.gif"> <br> <br>
+<img border="0" src="https://github.com/bhusarisuccess/MySimpleTweet/blob/master/Demo/ComplexUi Demo.gif" width="60%" height="60%"> <br>
 </a>
 </p>
