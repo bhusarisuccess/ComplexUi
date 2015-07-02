@@ -1,7 +1,7 @@
-<h1>MySimpleTweet Demo</h1>
+<h1>Twitter with Fragment</h1>
 
 <p>
-This is an Android demo application for displaying the tweets  using the Twitter  API.
+This is an Android demo application for displaying the tweets  using the Twitter  API with the fragment.
 </p>
 
 <p>
@@ -12,9 +12,10 @@ How many hours did it take to complete?
 <p>
 Which required and optional stories have you completed?
 
-- User can sign in to Twitter using OAuth login
-- User can view the tweets from their home timeline
-- User should be displayed the username, name, and body for each tweet
+- Includes all required user stories from Week 3 Twitter Client
+- User can switch between Timeline and Mention views using tabs.
+- User can view their home timeline tweets.
+- User can view the recent mentions of their username.
 
 </p>
 
